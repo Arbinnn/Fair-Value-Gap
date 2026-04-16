@@ -19,6 +19,10 @@ The workflow is notebook-based and uses pandas + NumPy for analysis and Plotly f
   - Metric value shown above each bar
   - Win-rate labels shown on the left/right side of each bar
 
+## Strategy Report
+
+- A full structured write-up is available in `FVG_Strategy_Report.md`.
+
 ## FVG Logic Summary
 
 For candle index `i` (using candles `i-2`, `i-1`, `i`):
